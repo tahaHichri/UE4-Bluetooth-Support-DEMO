@@ -1,0 +1,4 @@
+[submodule "Plugins/UE-Bluetooth-Support"]
+	path = Plugins/UE-Bluetooth-Support
+	url = git@github.com:tahaHichri/UE-Bluetooth-Support.git
+	branch = release
